@@ -4,7 +4,7 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 
 ![SRC-B1 hw overview](https://user-images.githubusercontent.com/32663016/114103450-1ec3cf00-9904-11eb-9560-2d96f6660764.png)
 
-Configuration!
+## HW Detail 
 - Main Controller: Latte panda(Window or Ubuntu), Raspberry pi
 - Sub Contoller: Arduino > motor, light, LED dot matrix control
 - IMU (AHRS): Heading direction check
@@ -13,13 +13,30 @@ Configuration!
 - Speaker: Connection beep, Alarm, Music(wav)
 - Light: 12 LED for light / mode check, night driving test
 
-## Theory
+## Steering
 - Steering: pure pursuit and PID control
+
+## GNSS/GPS
 - GNSS: RTK fixed or float mode setting (RTCM message) using NTRIP client
-- Waypoint: Using GPX route editor, easy to make and modify waypoint for driving
-![waypoint detail](https://user-images.githubusercontent.com/32663016/114104917-b9bda880-9906-11eb-9364-4e94e936f8db.png)
+- NTRIP client: u-center, 
+- Base Station:
+
+## Reinforcement Learning
 - Model: I'm testing DQN logic to apply driving algorism 
 
-## Type
+## Waypoint
+- Tools: Using GPX route editor, easy to make and modify waypoint for driving
+![waypoint detail](https://user-images.githubusercontent.com/32663016/114104917-b9bda880-9906-11eb-9364-4e94e936f8db.png)
+- Coordination: WGS84 to TM transform
+![coordinate transformation](https://user-images.githubusercontent.com/32663016/114106125-115d1380-9909-11eb-8894-97cdaa8b7b61.png)
 
+## Log replay
+- waypoint / actual driving route compare
+- statistics: distance error max/min/average
+- control value check: PID, stop point etc check..
+![log analysis](https://user-images.githubusercontent.com/32663016/114105530-e2926d80-9907-11eb-81bf-85ef355ecca8.png)
+
+## SRC Type
 ![SRC-BC](https://user-images.githubusercontent.com/32663016/114103638-73ffe080-9904-11eb-9f0f-82286d8f09cf.png)
+
+
