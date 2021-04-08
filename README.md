@@ -41,4 +41,18 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 ## SRC Type
 ![SRC-BC](https://user-images.githubusercontent.com/32663016/114103638-73ffe080-9904-11eb-9f0f-82286d8f09cf.png)
 
+## LED Light
+- color: Blue, White, Yellow
+
+## LED dot matrix
+- Display info: distance gap, degree gap, time, 
+- Mode select: joystic
+
+## Speaker
+- Function: connection alarm, Music, 
+
+
+
+
+
 
