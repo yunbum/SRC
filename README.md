@@ -25,8 +25,10 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 - Model: I'm testing DQN logic to apply driving algorism 
 
 ## Waypoint
-- Tools: Using GPX route editor, easy to make and modify waypoint for driving
+- Basic: Lookahead point, Target position, Heading value > minimize degree gab(waypoint vs AGV-lookahead deg)
 ![waypoint detail](https://user-images.githubusercontent.com/32663016/114104917-b9bda880-9906-11eb-9364-4e94e936f8db.png)
+- Tools: Using GPX route editor, easy to make and modify waypoint for driving
+![gpx route editor](https://user-images.githubusercontent.com/32663016/114106540-f0e18900-9909-11eb-8efd-35cec42236dc.png)
 - Coordination: WGS84 to TM transform
 ![coordinate transformation](https://user-images.githubusercontent.com/32663016/114106125-115d1380-9909-11eb-8894-97cdaa8b7b61.png)
 
