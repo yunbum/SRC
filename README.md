@@ -17,6 +17,7 @@ Configuration!
 - Steering: pure pursuit and PID control
 - GNSS: RTK fixed or float mode setting (RTCM message) using NTRIP client
 - Waypoint: Using GPX route editor, easy to make and modify waypoint for driving
+![waypoint detail](https://user-images.githubusercontent.com/32663016/114104917-b9bda880-9906-11eb-9364-4e94e936f8db.png)
 - Model: I'm testing DQN logic to apply driving algorism 
 
 ## Type
