@@ -18,25 +18,25 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 - NTRIP client: u-center, Lefebure
 - Base Station: gnss.eseoul.go.kr, vrs3.ngii.go.kr
 - Map: Google satellite, Bing..
+![gnss gmap](https://user-images.githubusercontent.com/32663016/114179669-3dfd4380-997a-11eb-977b-56b9888c949e.png)
 
 ### IMU/ AHRS
 - AHRS Heading
-
 ![ahrs v1 -1](https://user-images.githubusercontent.com/32663016/114178669-ff1abe00-9978-11eb-8b3f-0e7afb4f1d23.png)
 
 ### LED light
 - 12 Led module using relay switch module
 - color: bule, white, yellow ...
+![LED light-day](https://user-images.githubusercontent.com/32663016/114179881-8583cf80-997a-11eb-9ae0-7dd882dc87d3.png)
+![LED light-night](https://user-images.githubusercontent.com/32663016/114179973-98969f80-997a-11eb-89ba-7d0b254e59eb.png)
 
 ### SRC Type
 ![SRC-BC](https://user-images.githubusercontent.com/32663016/114103638-73ffe080-9904-11eb-9f0f-82286d8f09cf.png)
 
-### LED Light
-- color: Blue, White, Yellow
-
-### LED dot matrix
+### Led dot matrix
 - Display info: distance gap, degree gap, time, Latitude, Longitude,...
 - Mode select: joystic
+![led dot matrix](https://user-images.githubusercontent.com/32663016/114180465-30948900-997b-11eb-9e82-c2dd3f397627.png)
 
 ### Joystick
 - SRC Manual control
@@ -44,10 +44,12 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 - Etc: Sound check, LED Light on/off
 
 ### Camera /vision
-- 
+- image processing: Binary conver
+![image lane detection](https://user-images.githubusercontent.com/32663016/114181877-047a0780-997d-11eb-8480-14f319f0261d.png)
 
 ### Speaker
 - Function: connection alarm, Music, 
+
 
 ## SW Detail
 ### Steering
