@@ -24,7 +24,7 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 - AHRS Heading Kalman Filter
 
 ![ahrs v1 -1](https://user-images.githubusercontent.com/32663016/114178669-ff1abe00-9978-11eb-8b3f-0e7afb4f1d23.png)
-![imu-ahrs-160](https://user-images.githubusercontent.com/32663016/114248921-03c09000-99d4-11eb-8cd6-cff5f07d485e.gif)
+![imu-ahrs-240](https://user-images.githubusercontent.com/32663016/114249158-c1e41980-99d4-11eb-9012-2daf42560dee.gif)
 
 
 
