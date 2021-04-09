@@ -24,9 +24,7 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 - AHRS Heading Kalman Filter
 
 ![ahrs v1 -1](https://user-images.githubusercontent.com/32663016/114178669-ff1abe00-9978-11eb-8b3f-0e7afb4f1d23.png)
-![imu-ahrs-240](https://user-images.githubusercontent.com/32663016/114249158-c1e41980-99d4-11eb-9012-2daf42560dee.gif)
-
-
+![imu-ahrs-320](https://user-images.githubusercontent.com/32663016/114249290-2b642800-99d5-11eb-97f6-fada92fbb98e.gif)
 
 ### LED light
 - 12 Led module using relay switch module
