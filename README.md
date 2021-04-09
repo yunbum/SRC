@@ -15,16 +15,25 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 
 ## Steering
 - Steering: pure pursuit and PID control
+- PID: minimize the angle difference between waypoint and agv-lookahead point
+![steering diagram](https://user-images.githubusercontent.com/32663016/114169812-03d97500-996d-11eb-831b-41ac7f2191fa.png)
 
 ## GNSS/GPS
 - GNSS: RTK fixed or float mode setting (RTCM message) using NTRIP client
 - NTRIP client: u-center, 
-- Base Station:
+- Base Station: 
+- 
+
+## LED light
+- 12 Led module using relay switch module
+- color: bule, white, yellow ...
 
 ## Reinforcement Learning
 - Model: I'm testing DQN logic to apply driving algorism 
 
 ## Waypoint
+- GPX format: Using GPX route editor to create, modify the route easily.
+
 - Basic: Lookahead point, Target position, Heading value > minimize degree gab(waypoint vs AGV-lookahead deg)
 ![waypoint detail](https://user-images.githubusercontent.com/32663016/114104917-b9bda880-9906-11eb-9364-4e94e936f8db.png)
 - Tools: Using GPX route editor, easy to make and modify waypoint for driving
@@ -32,7 +41,9 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 - Coordination: WGS84 to TM transform
 ![coordinate transformation](https://user-images.githubusercontent.com/32663016/114106125-115d1380-9909-11eb-8894-97cdaa8b7b61.png)
 
+
 ## Log replay
+- replay the logfile after driving.
 - waypoint / actual driving route compare
 - statistics: distance error max/min/average
 - control value check: PID, stop point etc check..
