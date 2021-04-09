@@ -13,16 +13,17 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 - Speaker: Connection beep, Alarm, Music(wav)
 - Light: 12 LED for light / mode check, night driving test
 
+### GNSS/GPS
+- GNSS: RTK fixed or float mode setting (RTCM message) using NTRIP client
+- NTRIP client: u-center, Lefebure
+- Base Station: gnss.eseoul.go.kr, vrs3.ngii.go.kr
+
 ## Steering
 - Steering: pure pursuit and PID control
 - PID: minimize the angle difference between waypoint and agv-lookahead point
 ![steering diagram](https://user-images.githubusercontent.com/32663016/114169812-03d97500-996d-11eb-831b-41ac7f2191fa.png)
 
-## GNSS/GPS
-- GNSS: RTK fixed or float mode setting (RTCM message) using NTRIP client
-- NTRIP client: u-center, 
-- Base Station: 
-- 
+
 
 ## LED light
 - 12 Led module using relay switch module
