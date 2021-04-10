@@ -76,6 +76,8 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 - statistics: distance error max/min/average
 - control value check: PID, stop point etc check..
 ![log analysis](https://user-images.githubusercontent.com/32663016/114105530-e2926d80-9907-11eb-81bf-85ef355ecca8.png)
+![log replay 320-c](https://user-images.githubusercontent.com/32663016/114251760-34f18e00-99dd-11eb-876c-73add1a85a7e.gif)
+
 
 ### Reinforcement Learning
 - Model: I'm testing DQN logic to apply driving algorism 
