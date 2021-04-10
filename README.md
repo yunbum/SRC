@@ -29,8 +29,8 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 ### LED light
 - 12 Led module using relay switch module
 - color: bule, white, yellow ...
-![LED light-day](https://user-images.githubusercontent.com/32663016/114179881-8583cf80-997a-11eb-9ae0-7dd882dc87d3.png)
 ![LED light-night](https://user-images.githubusercontent.com/32663016/114179973-98969f80-997a-11eb-89ba-7d0b254e59eb.png)
+![LED-light-320-c](https://user-images.githubusercontent.com/32663016/114251904-bcd79800-99dd-11eb-8a08-da25aaa456d8.gif)
 
 ### SRC Type
 ![SRC-BC](https://user-images.githubusercontent.com/32663016/114103638-73ffe080-9904-11eb-9f0f-82286d8f09cf.png)
@@ -38,6 +38,7 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 ### Led dot matrix
 - Display info: distance gap, degree gap, time, Latitude, Longitude,...
 - Mode select: joystick
+- Custom: Add any personal message or customized display text
 ![led dot matrix](https://user-images.githubusercontent.com/32663016/114180465-30948900-997b-11eb-9e82-c2dd3f397627.png)
 
 ### Joystick
