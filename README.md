@@ -37,7 +37,7 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 
 ### Led dot matrix
 - Display info: distance gap, degree gap, time, Latitude, Longitude,...
-- Mode select: joystic
+- Mode select: joystick
 ![led dot matrix](https://user-images.githubusercontent.com/32663016/114180465-30948900-997b-11eb-9e82-c2dd3f397627.png)
 
 ### Joystick
@@ -45,6 +45,7 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 - Mode select: Manual/ Self Driving
 - Etc: Sound check, LED Light on/off
 ![joystick](https://user-images.githubusercontent.com/32663016/114184555-d518ca00-997f-11eb-88d3-edc224391c71.png)
+![joystick-320-c](https://user-images.githubusercontent.com/32663016/114251535-543beb80-99dc-11eb-9494-b158ec3940aa.gif)
 
 ### Camera /vision
 - image processing: Binary conver
