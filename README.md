@@ -4,6 +4,11 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 ![SRC B1 side1](https://user-images.githubusercontent.com/32663016/114177094-f45f2980-9976-11eb-9b19-e24f371d349c.png)
 ![SRC B1 side2](https://user-images.githubusercontent.com/32663016/114177226-1bb5f680-9977-11eb-9252-aefe00bdafe6.png)
 
+## Main UI
+- HW setting: id, rate, type...
+- SW setting: config file selection, detection range, vision ROI...
+<img width="1050" alt="main ui" src="https://user-images.githubusercontent.com/32663016/114626299-7c825d80-9cee-11eb-9d04-2419e665335e.png">
+
 ## HW Detail 
 - Main Controller: Latte panda(Window or Ubuntu), Raspberry pi
 - Sub Contoller: Arduino > motor, light, LED dot matrix control
@@ -26,11 +31,11 @@ As [Self Driving robot Engineer] I made fully hand-made metal Self Driving RC ca
 ![ahrs v1 -1](https://user-images.githubusercontent.com/32663016/114178669-ff1abe00-9978-11eb-8b3f-0e7afb4f1d23.png)
 ![imu-ahrs-320](https://user-images.githubusercontent.com/32663016/114249290-2b642800-99d5-11eb-97f6-fada92fbb98e.gif)
 
-## Camera / webcam
+### Camera / webcam
 - Image process: Binary conversion, ROI setting, Clamp, Area calculation
 - interface: PoE, USB with camera file (genicam)
 
-## Lidar
+### Lidar
 - Data processing: 3D, 2D raw data gathering, Clustering
 - Comm: TCP/IP, UDP, Com depend on manufacture
 - Range set: detectin range set > horizontal, vertical
